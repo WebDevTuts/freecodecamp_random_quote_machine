@@ -22,3 +22,18 @@ body {
   display: table;
   background-color: #FFF;
 }
+
+.quote-text {
+  text-align: center;
+  width: 500px;
+  height: auto;
+  clear: both;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 1.75em;
+}
+
+.quote-text i {
+  font-size: 1em;
+  margin-right: .4em;
+}
