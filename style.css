@@ -37,3 +37,12 @@ body {
   font-size: 1em;
   margin-right: .4em;
 }
+
+.quote-author {
+  width: 500px;
+  height: auto;
+  clear: both;
+  padding-top: 20px;
+  font-size: 1em;
+  text-align: right;
+}
