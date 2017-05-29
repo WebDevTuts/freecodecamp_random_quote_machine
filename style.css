@@ -12,3 +12,13 @@ body {
   font-family: 'Merriweather', serif;
   font-weight: 400;
 }
+
+.quote-box {
+  border-radius: 3px;
+  position: relative;
+  margin: 10% auto auto auto;
+  width: 500px;
+  padding: 40px 50px;
+  display: table;
+  background-color: #FFF;
+}
