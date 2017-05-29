@@ -85,3 +85,18 @@ body {
 .buttons .button#new-quote {
   float: right;
 }
+
+.footer {
+  width: 500px;
+  text-align: center;
+  display: block;
+  margin: 15px auto 30px auto;
+  font-size: .8em;
+  color: #FFF;
+}
+
+.footer a {
+  font-weight: 400;
+  text-decoration: none;
+  color: #FFF;
+}
