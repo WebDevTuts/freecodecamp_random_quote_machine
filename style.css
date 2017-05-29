@@ -70,3 +70,18 @@ body {
 .buttons .button:hover {
   opacity: .9;
 }
+
+.buttons .button#tweet-quote,
+.buttons .button#tumblr-quote {
+  float: left;
+  padding: 0;
+  padding-top: 8px;
+  text-align: center;
+  font-size: 1.2em;
+  margin-right: 5px;
+  height: 30px;
+  width: 40px;
+}
+.buttons .button#new-quote {
+  float: right;
+}
