@@ -12,3 +12,9 @@ $(document).ready(function() {
     }
   });
 });
+
+// This func checks whether active window is in an iFrame. If It's not in an iFrame then it pops open a new window to handle the Twitter/Tumblr sharing without completely redirecting the page.
+function inIframe () {
+  try { return window.self !== window.top }
+  catch (e) { return true; }
+}
